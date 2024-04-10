@@ -234,6 +234,10 @@ reviewdog version.
 
 ![reviewdog depup demo](https://user-images.githubusercontent.com/3797062/73154254-170e7500-411a-11ea-8211-912e9de7c936.png)
 
+## SonarQube
+
+https://sesvc.shell.com/dashboard?id=com.shell.isort-action&selectedTutorial=github-actions
+
 ## Contributors
 <!-- readme: contributors -start -->
 <table>
